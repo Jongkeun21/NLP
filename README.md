@@ -1,4 +1,8 @@
 # NLP
 
 
-**SEQ2SEQ** and **TRANSFORMER** clone coding
+For understanding **NLP**
+
+1. Word2VEC
+2. Seq2seq
+3. Transformer
